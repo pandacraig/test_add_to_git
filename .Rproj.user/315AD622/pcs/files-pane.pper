@@ -1,0 +1,9 @@
+{
+    "path" : "~/test_add_to_git",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
